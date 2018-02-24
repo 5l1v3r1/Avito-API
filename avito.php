@@ -15,7 +15,7 @@ class Avito
     private static $API_KEY        = '';
     private static $API_SECRET_KEY = '';
 
-	#---------------------------------------------#
+    #---------------------------------------------#
     public function __construct();
     #---------------------------------------------#
     public function IsAuthorized();
